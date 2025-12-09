@@ -28,9 +28,9 @@
   transition: color 0.3s;
 }
 
-/* Modificador (BEM) */
+
 .navbar__link--active {
-  color: #f39c12; /* Un color naranja para destacar :P */
+  color: #f39c12; 
   font-weight: bold;
   border-bottom: 2px solid #f39c12;
 }
