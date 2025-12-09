@@ -1,0 +1,40 @@
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #333;
+  color: white;
+}
+
+.navbar__logo a {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar__menu {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+.navbar__link {
+  color: #ddd;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: color 0.3s;
+}
+
+/* Modificador (BEM) */
+.navbar__link--active {
+  color: #f39c12; /* Un color naranja para destacar :P */
+  font-weight: bold;
+  border-bottom: 2px solid #f39c12;
+}
+
+.navbar__link:hover {
+  color: white;
+}

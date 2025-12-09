@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Auriculares",
+    "category": "Audio",
+    "price": 299.99,
+    "image": "https://placehold.co/400x300/333/white?text=Auriculares",
+    "description": "Auriculares de alta fidelidad con cancelación de ruido activa y 20 horas de batería."
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "category": "Telefonía",
+    "price": 899.50,
+    "image": "https://placehold.co/400x300/1a1a1a/white?text=Smartphone",
+    "description": "El último modelo con cámara de 108MP y procesador de última generación."
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "category": "Computación",
+    "price": 1250.00,
+    "image": "https://placehold.co/400x300/2c3e50/white?text=Laptop",
+    "description": "Portátil ideal para desarrolladores. 32GB RAM y 1TB SSD."
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "category": "Wearables",
+    "price": 149.99,
+    "image": "https://placehold.co/400x300/e74c3c/white?text=Watch",
+    "description": "Reloj inteligente resistente al agua con monitor de ritmo cardíaco."
+  },
+  {
+    "id": 5,
+    "name": "Teclado RGB",
+    "category": "Periféricos",
+    "price": 89.90,
+    "image": "https://placehold.co/400x300/8e44ad/white?text=Teclado",
+    "description": "Teclado mecánico switches azules con retroiluminación configurable."
+  },
+  {
+    "id": 6,
+    "name": "Cámara 4K",
+    "category": "Fotografía",
+    "price": 750.00,
+    "image": "https://placehold.co/400x300/f39c12/white?text=Camara",
+    "description": "Graba tus vlogs en 4K con esta cámara compacta y potente."
+  }
+]
